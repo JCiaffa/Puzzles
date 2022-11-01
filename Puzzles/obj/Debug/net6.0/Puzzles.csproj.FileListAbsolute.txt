@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\bin\Debug\net6.0\Puzzles.exe
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\bin\Debug\net6.0\Puzzles.deps.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\bin\Debug\net6.0\Puzzles.runtimeconfig.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\bin\Debug\net6.0\Puzzles.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\bin\Debug\net6.0\Puzzles.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\refint\Puzzles.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\Puzzles.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Puzzles\obj\Debug\net6.0\ref\Puzzles.dll
